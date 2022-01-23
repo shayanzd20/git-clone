@@ -1,6 +1,6 @@
 # MVST. Coding Challenge
 
-This project is the code challege of MVST and used react jest enzyme and has a based in github.
+This project is the code challege of MVST and used react jest enzyme and used a minimal project from github.
 it is a responsive web application. At the beginning you need to import username and then repositories of user will show up.
 
 ## Instruction
@@ -19,6 +19,11 @@ to run unit test just run below command on terminal in the root of the project
 ## Deployment
 
 -   here is the link of deployed app
+    https://shayan-git-clone.herokuapp.com
+
+## Source Code
+
+https://github.com/shayanzd20/git-clone
 
 ## Future improvements
 
