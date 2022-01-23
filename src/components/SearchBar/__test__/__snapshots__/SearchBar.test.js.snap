@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Search Bar matches snapshot 1`] = `
+<div
+  className="ui search"
+  data-testid="search"
+>
+  <div
+    className="ui icon input"
+  >
+    <input
+      className="prompt"
+      id="data-inputid"
+      onChange={[Function]}
+      placeholder="Search Repositories"
+      type="text"
+      value="'type anything here'"
+    />
+    <i
+      className="search icon-search"
+    />
+  </div>
+</div>
+`;
