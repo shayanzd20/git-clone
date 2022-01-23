@@ -1,0 +1,39 @@
+.Layout-sidebar {
+	display: block;
+	margin: 0;
+	padding: 0;
+	width: 200px;
+	position: fixed;
+	height: 100%;
+	overflow: auto;
+	padding: 16px;
+	text-decoration: none;
+	text-align: center;
+}
+
+.Layout-main {
+	margin-left: 200px;
+	padding: 1px;
+	height: 100%;
+}
+.user-infos {
+	padding-bottom: 15px;
+	margin-bottom: 15px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin-top: 20px;
+}
+
+@media screen and (max-width: 543px) {
+	.Layout-sidebar {
+		width: 100%;
+		height: auto;
+		position: relative;
+		float: left;
+		text-align: center;
+	}
+	.Layout-main {
+		margin-left: 0;
+	}
+}
